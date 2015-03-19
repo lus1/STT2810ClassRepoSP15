@@ -30,6 +30,12 @@ If you would like to render an `.html` file you find in this repo, click on the 
 * [Cookbook for R](http://www.cookbook-r.com/Graphs/)
 * [Lattice: Multivariate Data Visualization with R - Figures and code](http://lmdvr.r-forge.r-project.org/figures/figures.html)
 
+## Using `dplyr`
+
+* [`dplyr` video1-tutorial](http://www.dataschool.io/dplyr-tutorial-for-faster-data-manipulation-in-r/)
+* [`dplyr` video2-tutorial](http://www.dataschool.io/dplyr-tutorial-part-2/)
+
+
 ## Reproducible Analysis
 
 * [`knitr` Homepage](http://yihui.name/knitr/)
